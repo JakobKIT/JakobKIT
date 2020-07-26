@@ -38,12 +38,6 @@ const Jakob = {
   },
 }
 ```
-🤝 **Connect with me**
-
-[![Twitter: JakobKIT](https://img.shields.io/twitter/follow/JakobKIT?style=social)](https://twitter.com/JakobKIT)
-[![GitHub JakobKIT](https://img.shields.io/github/followers/JakobKIT?label=follow&style=social)](https://github.com/JakobKIT)
-
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JakobKIT&show_icons=true" alt="JakobKIT" /> 
 </p>
