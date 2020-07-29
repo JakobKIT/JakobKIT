@@ -35,7 +35,7 @@ const Jakob = {
     others: [
       'docker',
       'gatsby',
-      'hugo'
+      'hugo',
     ]
   },
 }
