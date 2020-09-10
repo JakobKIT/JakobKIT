@@ -2,7 +2,7 @@
 
 [![Mail](https://img.shields.io/badge/Mail-mail@jakobklamser.net-red)](mailto:mail@jakobklamser.net)
 [![Twitter](https://img.shields.io/badge/Twitter-JakobKIT-blue)](https://twitter.com/JakobKIT)
-[![Blog](https://img.shields.io/badge/Blog-jakobklamser.net-brightgreen)](https://jakobklamser.net)
+[![Blog](https://img.shields.io/badge/Blog-jakobklamser.net-brightgreen)](https://klamser.dev)
 
 ```javascript
 const Jakob = {
@@ -34,6 +34,8 @@ const Jakob = {
     ],
     others: [
       'docker',
+      'kubernetes',
+      'helm',
       'gatsby',
       'hugo',
     ]
