@@ -2,7 +2,7 @@
 
 [![Mail](https://img.shields.io/badge/Mail-mail@jakobklamser.net-red)](mailto:mail@jakobklamser.net)
 [![Twitter](https://img.shields.io/badge/Twitter-JakobKIT-blue)](https://twitter.com/JakobKIT)
-[![Blog](https://img.shields.io/badge/Blog-jakobklamser.net-brightgreen)](https://klamser.dev)
+[![Blog](https://img.shields.io/badge/Blog-klamser.dev-brightgreen)](https://klamser.dev)
 
 ```javascript
 const Jakob = {
