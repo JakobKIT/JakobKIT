@@ -6,7 +6,7 @@
 
 ```javascript
 const Jakob = {
-  title: 'Junior Software Developer',
+  title: 'Software Developer',
   city: 'Friedberg (Hessen), Germany',
   interests: [
     'Frontend Development',
