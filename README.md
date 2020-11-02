@@ -19,6 +19,7 @@ const Jakob = {
       'react',
       'angular',
       'bootstrap',
+      'typescript',
     ],
     backEnd: [
       'nodejs',
@@ -37,7 +38,6 @@ const Jakob = {
       'kubernetes',
       'helm',
       'gatsby',
-      'hugo',
     ]
   },
 }
